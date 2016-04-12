@@ -23,7 +23,6 @@
     
     <div id="layout">
     
-    	
         <!-- Menu Toggle -->
         <a href="#menu" id="menuLink" class="menu-link">
             
